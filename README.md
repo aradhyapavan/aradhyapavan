@@ -49,7 +49,7 @@
 <td width="50%" valign="top" style="padding: 10px; word-wrap: break-word;">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=Education%20Focus&fontSize=18&fontColor=fff&animation=blinking&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=Education%20and%20Focus&fontSize=18&fontColor=fff&animation=blinking&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
@@ -63,10 +63,9 @@
 <br/>
 
 <table style="width: 100%; font-size: 14px;">
-<tr><td width="20px">🤖</td><td><strong>Focus</strong><br/>Translating complex data challenges into practical solutions</td></tr>
-<tr><td>🚀</td><td><strong>Experience</strong><br/>Python, PHP, agentic AI systems, POCs/MVPs</td></tr>
-<tr><td>⚡</td><td><strong>Interests</strong><br/>GPUs, distributed systems, building tools</td></tr>
-<tr><td>🏎️</td><td><strong>Inspiration</strong><br/>Formula 1 racing - real-time data analysis</td></tr>
+<tr><td width="20px">🤖</td><td><strong>Focus</strong><br/>Translating complex data challenges into practical, scalable solutions</td></tr>
+<tr><td>🚀</td><td><strong>Experience</strong><br/>Python, PHP tech stack, agentic AI systems, POCs/MVPs to production</td></tr>
+<tr><td>🏎️</td><td><strong>Inspiration</strong><br/>Formula 1 racing - real-time data analysis of billions of data points</td></tr>
 </table>
 
 </td>
@@ -83,11 +82,10 @@
 <br/>
 
 <table style="width: 100%; font-size: 14px;">
-<tr><td width="20px">📝</td><td><strong>Projects</strong><br/>POCs to MVPs, web applications</td></tr>
-<tr><td>🏁</td><td><strong>Hackathons</strong><br/>Regular participant with wins</td></tr>
-<tr><td>📊</td><td><strong>Research</strong><br/>Scalable ML, GPUs, Distributed Systems</td></tr>
-<tr><td>🛠️</td><td><strong>Philosophy</strong><br/>Focus on design, functionality, UX</td></tr>
-<tr><td>⚡</td><td><strong>Quick Learner</strong><br/>Adapt fast to new domains</td></tr>
+<tr><td width="20px">🏁</td><td><strong>Hackathons</strong><br/>Regular participant with wins, enjoy competitive building</td></tr>
+<tr><td>⚡</td><td><strong>Interests</strong><br/>GPUs, scalable distributed systems, domain-agnostic applications</td></tr>
+<tr><td>🛠️</td><td><strong>Philosophy</strong><br/>Design, functionality, use-case fit, UX, attention to detail, cost</td></tr>
+<tr><td>🔄</td><td><strong>Quick Learner</strong><br/>Adapt fast to new domains, curious and quick to explore</td></tr>
 </table>
 
 <div align="center">
