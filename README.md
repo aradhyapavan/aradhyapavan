@@ -62,10 +62,10 @@
 
 <br/>
 
-<table style="width: 100%; font-size: 14px;">
-<tr><td width="20px">🤖</td><td><strong>Focus</strong><br/>Translating complex data challenges into practical, scalable solutions</td></tr>
-<tr><td>🚀</td><td><strong>Experience</strong><br/>Python, PHP tech stack, agentic AI systems, POCs/MVPs to production</td></tr>
-<tr><td>🏎️</td><td><strong>Inspiration</strong><br/>Formula 1 racing - real-time data analysis of billions of data points</td></tr>
+<table style="width: 100%; font-size: 12px; table-layout: fixed;">
+<tr><td width="15px">🤖</td><td><strong>Focus</strong><br/>Translating data challenges into scalable solutions</td></tr>
+<tr><td>🚀</td><td><strong>Experience</strong><br/>Python, PHP, AI systems, POCs to MVPs</td></tr>
+<tr><td>🏎️</td><td><strong>Inspiration</strong><br/>Formula 1 racing - real-time data analysis</td></tr>
 </table>
 
 </td>
@@ -77,15 +77,15 @@
 
 <br/>
 
-> *I care about building useful intelligent systems that people can actually use and love to contribute to open source* 
+> *Building useful intelligent systems that people can actually use*
 
 <br/>
 
-<table style="width: 100%; font-size: 14px;">
-<tr><td width="20px">🏁</td><td><strong>Hackathons</strong><br/>Regular participant with wins, enjoy competitive building</td></tr>
-<tr><td>⚡</td><td><strong>Interests</strong><br/>GPUs, scalable distributed systems, domain-agnostic applications</td></tr>
-<tr><td>🛠️</td><td><strong>Philosophy</strong><br/>Design, functionality, use-case fit, UX, attention to detail, cost</td></tr>
-<tr><td>🔄</td><td><strong>Quick Learner</strong><br/>Adapt fast to new domains, curious and quick to explore</td></tr>
+<table style="width: 100%; font-size: 12px; table-layout: fixed;">
+<tr><td width="15px">🏁</td><td><strong>Hackathons</strong><br/>Regular participant with wins</td></tr>
+<tr><td>⚡</td><td><strong>Interests</strong><br/>GPUs, distributed systems</td></tr>
+<tr><td>🛠️</td><td><strong>Philosophy</strong><br/>Design, functionality, UX</td></tr>
+<tr><td>🔄</td><td><strong>Quick Learner</strong><br/>Adapt fast to new domains</td></tr>
 </table>
 
 <div align="center">
