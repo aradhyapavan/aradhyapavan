@@ -272,10 +272,12 @@ mindmap
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=70)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70)
 
 <div align="center">
 
-**⭐ From [aradhyapavan](https://github.com/aradhyapavan) with ❤️**
+**🙏 From [aradhyapavan](https://github.com/aradhyapavan) with ❤️**
 
 </div>
+
+
