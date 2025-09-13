@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="219" height="40">
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="40">
     <defs>
         <!-- Exact CSS gradient: linear-gradient(135deg, #f8f9fa, #ffffff) -->
         <linearGradient id="textBgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -17,7 +17,7 @@
          border-radius: 8px; margin: 4px; border: 2px solid #e9ecef; 
          box-shadow: 0 2px 8px rgba(0,0,0,0.1); font-weight: bold; font-size: 14px -->
     <rect x="4" y="4" 
-          width="211" height="32" 
+          width="202" height="32" 
           rx="8" ry="8"
           fill="url(#textBgGrad)" 
           stroke="#e9ecef" 
@@ -25,10 +25,10 @@
           filter="url(#textShadow)"/>
     
     <!-- Text with exact CSS font styling: font-weight: bold; font-size: 14px -->
-    <text x="109.5" y="25.0" 
+    <text x="105.0" y="25.0" 
           font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" 
           font-size="14" 
           font-weight="bold" 
           fill="#333333" 
-          text-anchor="middle">🧬 Scalable AI Systems</text>
+          text-anchor="middle"> Scalable AI Systems</text>
 </svg>
