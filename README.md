@@ -269,3 +269,13 @@ mindmap
 *"I focus on what matters: design, functionality, user experience, and attention to detail"*
 
 </div>
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=70)
+
+<div align="center">
+
+**⭐ From [aradhyapavan](https://github.com/aradhyapavan) with ❤️**
+
+</div>
