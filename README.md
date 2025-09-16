@@ -64,8 +64,8 @@
 
 <table style="width: 100%; font-size: 12px; table-layout: fixed;">
 <tr><td width="15px">🤖</td><td><strong>Focus</strong><br/>Translating data challenges into scalable solutions</td></tr>
-<tr><td>🚀</td><td><strong>Experience</strong><br/>Python, PHP, AI systems, POCs to MVPs</td></tr>
-<tr><td>🏎️</td><td><strong>Inspiration</strong><br/>Formula 1 racing - real-time data analysis</td></tr>
+<tr><td>🧩</td><td><strong>Tech Stack</strong><br/>Python • AI/ML & NLP Systems • Idea → Impact</td></tr>
+<tr><td>🌟</td><td><strong>Interests</strong><br/>💻 Technology<br/>🏎️ F1 Racing<br/>🚀 Space<br/>🎬 Movies & TV Shows<br/>🌍 Geopolitics</td></tr>
 </table>
 
 </td>
@@ -83,7 +83,7 @@
 
 <table style="width: 100%; font-size: 12px; table-layout: fixed;">
 <tr><td width="15px">🏁</td><td><strong>Hackathons</strong><br/>Regular participant with wins</td></tr>
-<tr><td>⚡</td><td><strong>Interests</strong><br/>GPUs, distributed systems</td></tr>
+<tr><td>⚡</td><td><strong>Explore</strong><br/>Different tech, GPUs, distributed systems</td></tr>
 <tr><td>🛠️</td><td><strong>Philosophy</strong><br/>Design, functionality, UX</td></tr>
 <tr><td>🔄</td><td><strong>Quick Learner</strong><br/>Adapt fast to new domains</td></tr>
 </table>
