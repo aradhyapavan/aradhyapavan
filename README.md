@@ -41,7 +41,7 @@
 <table style="width: 100%; table-layout: fixed;">
 <tr>
 <td colspan="2" align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Coding GIF"/>
+<img src="svg_icons/aradhya_github_readme.svg" width="450" alt="Aradhya GitHub Readme SVG"/>
 <br/><br/>
 </td>
 </tr>
