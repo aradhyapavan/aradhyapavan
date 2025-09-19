@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;M.Tech+AIML+%7C+NLP+Specialization+%E2%9C%A8;Python+%E2%80%A2+Cloud+%E2%80%A2+Agentic+AI+%F0%9F%9A%80;Formula+1+Fan+%F0%9F%8F%8E%EF%B8%8F+%7C+Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
+
+
 <br/><br/>
 
 <p align="center">
@@ -192,6 +194,7 @@
 ### 🧠 My Journey & Expertise Map
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#2563eb','primaryTextColor':'#ffffff','primaryBorderColor':'#06b6d4','lineColor':'#06b6d4','sectionBkgColor':'#1e40af','altSectionBkgColor':'#3730a3','gridColor':'#374151','secondaryColor':'#dc2626','tertiaryColor':'#059669'}}}%%
 mindmap
   root((Aradhya Pavan))
     Tech Stack
@@ -262,7 +265,8 @@ mindmap
 <a href="https://visitcount.itsvg.in">
   <img src="https://github-stats-alpha.vercel.app/api?username=aradhyapavan&cc=000&tc=fff&ic=fff&bc=000" />
 </a>
-
+<!-- Hidden visitor tracker -->
+<img src="https://komarev.com/ghpvc/?username=aradhyapavan&style=flat&color=transparent&label=" width="0" height="0" alt="" />
 
 ### 📫 Let's Connect & Build Something Amazing Together!
 
