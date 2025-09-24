@@ -7,6 +7,10 @@
 <br/><br/>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=aradhyapavan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
 <a href="https://aradhyapavan.github.io" target="_blank">
 <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Portfolio" />
 </a>
@@ -192,6 +196,7 @@
 ### 🧠 My Journey & Expertise Map
 
 ```mermaid
+%%{init: {'theme':'forest', 'themeVariables': { 'background': 'transparent' }}}%%
 mindmap
   root((Aradhya Pavan))
     Tech Stack
@@ -259,9 +264,9 @@ mindmap
 
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://github-stats-alpha.vercel.app/api?username=aradhyapavan&cc=000&tc=fff&ic=fff&bc=000" />
-</a>
+<a href="https://komarev.com/ghpvc/?username=aradhyapavan">
+  <img src="https://komarev.com/ghpvc/?username=aradhyapavan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+ </a>
 
 
 ### 📫 Let's Connect & Build Something Amazing Together!
